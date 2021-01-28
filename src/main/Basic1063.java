@@ -11,6 +11,7 @@ public class Basic1063 {
 		int b = sc.nextInt();
 		sc.close();
 		
+		
 		//삼항 연산자
 		// a>b 참(1)이면 a가 출력되고
 		// a>b 거짓(0)이면 b가 출력된
