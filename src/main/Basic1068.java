@@ -14,7 +14,6 @@ public class Basic1068 {
 		if( 89 >= su && su >= 70) System.out.println("B");
 		if( 69 >= su && su >= 40) System.out.println("C");
 		if( 39 >= su && su >=  0) System.out.println("D");
-		
 				
 	}
 }
