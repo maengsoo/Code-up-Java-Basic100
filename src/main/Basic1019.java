@@ -19,7 +19,6 @@ public class Basic1019 {
 		//형식에 맞게 출력
 		System.out.printf("%04d.%02d.%02d", arr[0], arr[1], arr[2]);
 		
-	
 		sc.close();
 	}
 

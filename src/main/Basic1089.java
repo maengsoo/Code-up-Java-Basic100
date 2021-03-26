@@ -7,6 +7,7 @@ public class Basic1089 {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
+		
 		int start = sc.nextInt();
 		int sum   = sc.nextInt();
 		int end   = sc.nextInt();
